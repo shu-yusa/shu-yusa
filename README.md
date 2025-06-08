@@ -63,5 +63,3 @@ I'm always interested in discussing software engineering, system design, or appl
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shu-yusa&show_icons=true&theme=default)
-
-⭐️ *"Developing software that effectively evolves with business needs while maintaining high reliability"*
